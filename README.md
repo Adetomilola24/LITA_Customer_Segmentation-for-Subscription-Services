@@ -1,4 +1,4 @@
-# LITA_Customer_Segmentation-for-Subscription-Services
+# LITA_Customer_Segmentation_for_Subscription_Services
 This project involves analysing customer data for a subscription service to identify segments and trends. and identify key trends in cancellations and renewals. 
 
 ## Project Title: Customer Segmentation for Subscription Services
