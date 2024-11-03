@@ -49,3 +49,13 @@ For exploratory data analysis, pivot tables and descriptive statistics helped in
 2. Churn Rate Trends: Analyzing patterns in subscription cancellations over different periods.
 3. Subscription Duration: Calculating average subscription duration and identifying customer characteristics associated with longer or shorter durations.
 
+## Data Analysis
+Data analysis was conducted in SQL, focusing on specific insights as outlined below:
+
+1. Customer Count by Region: To observe customer distribution across regions.
+2. Most Popular Subscription Types: Analyzing which types are most chosen by customers.
+3. Churn Insights: Identifying customers who canceled within the first six months and factors influencing early cancellation.
+4. Average Subscription Duration: Calculating the mean duration across customer segments.
+5. Long-Term Subscribers: Identifying customers with subscriptions over 12 months to assess long-term engagement.
+6. Revenue by Subscription Type: Determining revenue contributions by different subscription types.
+7. Churn by Region: Highlighting the top regions with the highest subscription cancellations.
