@@ -15,6 +15,7 @@ This project involves analysing customer data for a subscription service to iden
 [Data Analysis](#data-analysis)
 
 [Data Visualization](#data-visualization)
+
 ## Project Overview
 In this project, 
 - We analyze customer data for a subscription service to understand user behavior
@@ -59,3 +60,11 @@ Data analysis was conducted in SQL, focusing on specific insights as outlined be
 5. Long-Term Subscribers: Identifying customers with subscriptions over 12 months to assess long-term engagement.
 6. Revenue by Subscription Type: Determining revenue contributions by different subscription types.
 7. Churn by Region: Highlighting the top regions with the highest subscription cancellations.
+
+## Data Visualization
+The Power BI dashboard provides interactive visuals to communicate the analysis insights:
+
+1. Customer Segmentation View: Segments customers based on subscription type, duration, and regional distribution.
+2. Churn Analysis: Visualizes trends in cancellations over time and highlights regions with the highest churn.
+3. Subscription Trends: Shows the most popular subscription types and patterns in renewals and cancellations.
+4. Slicers and Filters: Interactive slicers allow filtering by subscription types, duration, and regions, providing a deeper dive into specific customer segments.
